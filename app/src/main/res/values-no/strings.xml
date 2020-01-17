@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Første app</string>
+    <string name="main_button">Sende</string>
+    <string name="action_settings">Instillinger</string>
+    <string name="input_text">Skrive en melding</string>
+</resources>
